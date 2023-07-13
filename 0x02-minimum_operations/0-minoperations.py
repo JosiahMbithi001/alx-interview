@@ -1,4 +1,9 @@
+#!/usr/bin/python3
+"""This File Contains a Function min Operations"""
+
+
 def minOperations(n):
+    """This Function finds the minimum operations"""
     if n <= 1:
         return 0
 
